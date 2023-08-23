@@ -1,5 +1,3 @@
-Here is a sample README file for providing overview, usage instructions, and credits for this study's dataset:
-
 # Eye-Tracking and Empathy Dataset
 
 This dataset contains eye-tracking measurements and empathy assessments collected from 60 participants during assistive technology tasks. It supports research intersecting gaze behavior, psychology, and human-computer interaction.
