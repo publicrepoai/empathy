@@ -13,7 +13,13 @@ The dataset includes:
 
 ## Usage
 
-The eye tracking data files are CSVs containing timestamps, x/y gaze coordinates, pupil diameter, and other measurements. Use sequential loading and preprocessing to prepare the data for analysis.
+The eye tracking data files are CSVs containing timestamps, x/y gaze coordinates, pupil diameter, and other measurements. Use sequential loading and preprocessing to prepare the data for analysis.  The following Python packages are recommended for loading and analyzing the data:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
 
 The questionnaire files provide empathy scores for each participant before and after the tasks. Scores can be correlated with gaze patterns.
 
