@@ -25,7 +25,8 @@ See the associated paper for details on data collection, preprocessing code, and
 
 If using this dataset, please cite the following paper:
 
-Lencastre et al. 2022. EyeT4Empathy: Dataset of foraging for visual information, gaze typing and empathy assessment. Scientific Data 9:752.
+P. Lencastre, S. Bhurtel, A. Yazidi, S. Denysov, P. G. Lind, et al. EyeT4Empathy: Dataset of foraging for visual information, gaze typing and empathy assessment. Scientific Data, 9(1):1–8, 2022
+
 
 ## Contact
 
